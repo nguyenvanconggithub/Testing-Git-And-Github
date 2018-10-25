@@ -1,0 +1,14 @@
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\bin\Release\sound\reng.wav
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\bin\Release\AlertRelax.exe.config
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\bin\Release\AlertRelax.exe
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\bin\Release\AlertRelax.pdb
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\obj\Release\Interop.WMPLib.dll
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\obj\Release\AlertRelax.csproj.ResolveComReference.cache
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\obj\Release\AlertRelax.Form1.resources
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\obj\Release\AlertRelax.Properties.Resources.resources
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\obj\Release\AlertRelax.csproj.GenerateResource.cache
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\obj\Release\AlertRelax.csproj.CoreCompileInputs.cache
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\obj\Release\AlertRelax.exe
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\obj\Release\AlertRelax.pdb
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\bin\Release\icon.ico
+D:\VS Code\AlertRelaxTool\AlertRelax\AlertRelax\obj\Release\AlertRelax.csprojAssemblyReference.cache
